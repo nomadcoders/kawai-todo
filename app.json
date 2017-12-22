@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "kawai-todo",
-    "description": "This project is really great.",
+    "name": "Kawai To Do",
+    "description": "Kawai To Do App made with React Native",
     "slug": "kawai-todo",
     "privacy": "public",
     "sdkVersion": "24.0.0",
