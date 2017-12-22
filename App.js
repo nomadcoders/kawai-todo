@@ -27,7 +27,7 @@ export default class App extends React.Component {
   };
   render() {
     const { newToDo, loadedToDos, toDos } = this.state;
-    if (loadedToDos) {
+    if (!loadedToDos) {
       return <AppLoading />;
     }
     return (
